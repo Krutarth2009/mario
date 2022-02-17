@@ -1,0 +1,38 @@
+#heading{
+ 
+    display: inline;
+   
+    font-size: 30px ;
+
+}
+ img{
+    width: 100%;
+ }
+
+ #playgame{
+     font-size: 40px;
+     margin-top: 10px;
+ }
+
+ #footer{
+     position: fixed;
+     width: 100%;
+     bottom: 0;
+     background-color: gray;
+     line-height: 2;
+     font-size: 20px;
+     text-align: center;
+ }
+
+ .instruction_image{
+     display: inline-block;
+     width: 45%;
+ }
+
+ .modal-dialog{
+   width: 90%;
+ }
+
+#canvas{
+    border: 10px solid rgb(0, 0, 0);
+}
